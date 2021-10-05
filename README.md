@@ -25,3 +25,7 @@ La aplicación estará disponible en `http://localhost:8080`
 - POST /api/libros - Crear nuevo libro
 - PUT /api/libros/{id} - Actualizar libro
 - DELETE /api/libros/{id} - Eliminar libro
+
+## Base de Datos
+
+H2 Console disponible en: `http://localhost:8080/h2-console`
