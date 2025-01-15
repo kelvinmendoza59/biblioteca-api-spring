@@ -12,6 +12,8 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/api/libros")
+// TODO: Add pagination support for large datasets
+// TODO: Implement search functionality
 public class LibroController {
 
     @Autowired
