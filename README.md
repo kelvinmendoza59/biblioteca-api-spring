@@ -1,5 +1,7 @@
 # Biblioteca API
 
+> 📅 Developed in 2021 | Migrated to GitHub 2025
+
 API REST para gestión de biblioteca con Spring Boot.
 
 ## Tecnologías
